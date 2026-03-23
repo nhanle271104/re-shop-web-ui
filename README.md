@@ -1,4 +1,4 @@
 ## Project name: RE Shop Web UI project
 ## Team members: 
-### 1. Dao nguyen
-### 2. Hung Pham
+### 1. DANH NHAN 1 
+### 2. Danh Nhan 2
